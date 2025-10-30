@@ -1,0 +1,6 @@
+# Ignore log and temp files
+*.log
+*.tmp
+
+# Ignore user-specific config
+config.json
