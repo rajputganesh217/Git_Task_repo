@@ -1,1 +1,0 @@
-# Cloudethix_git_ganesh

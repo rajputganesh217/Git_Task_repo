@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Hello CloudEthiX….
-=======
-Hello CloudEthiX….
->>>>>>> demo/conflicts
